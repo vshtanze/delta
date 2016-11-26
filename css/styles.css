@@ -1,0 +1,7 @@
+.bord_block {
+    overflow: hidden;
+    border-bottom: 1px solid #eee;
+    border-left: 1px solid #eee;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
